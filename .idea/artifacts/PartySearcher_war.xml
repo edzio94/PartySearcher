@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PartySearcher:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PartySearcher-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PartySearcher:war exploded" />
+    </root>
+  </artifact>
+</component>

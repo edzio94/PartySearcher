@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2816659193">
+    <data-source source="LOCAL" name="PostgreSQL - partysearcher@localhost" uuid="028ff481-fdbb-449e-a030-3a7e5266c871">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/partysearcher</jdbc-url>
+      <default-dialect>PostgreSQL</default-dialect>
+    </data-source>
+  </component>
+</project>
